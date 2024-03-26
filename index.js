@@ -7,11 +7,11 @@ import {
   Redirect,
 } from 'react-router-dom'
 
-import './style.css'
-import Experience from './views/experience'
-import Portfolio from './views/portfolio'
-import Home from './views/home'
-import NotFound from './views/not-found'
+import './src/style.css'
+import Experience from './src/views/experience'
+import Portfolio from './src/views/portfolio'
+import Home from './src/views/home'
+import NotFound from './src/views/not-found'
 
 const App = () => {
   return (
